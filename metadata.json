@@ -1,0 +1,6 @@
+{
+  "name": "ECC Worker Studio",
+  "description": "Интерактивная студия инструкций, ролей, правил, скиллов и AI-воркеров на базе архитектуры affaan-m/ECC и Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
